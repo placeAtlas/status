@@ -76,17 +76,17 @@
     "url": "https://place-wiki.stefanocoding.me/",
     "icon": "https://icons.duckduckgo.com/ip3/place-wiki.stefanocoding.me.ico",
     "slug": "place-wiki",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1166,
-    "timeDay": 906,
-    "timeWeek": 1227,
-    "timeMonth": 1166,
-    "timeYear": 1166,
+    "time": 1138,
+    "timeDay": 843,
+    "timeWeek": 1171,
+    "timeMonth": 1138,
+    "timeYear": 1138,
     "dailyMinutesDown": {}
   }
 ]
