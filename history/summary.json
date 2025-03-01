@@ -4,9 +4,9 @@
     "url": "https://place-atlas.stefanocoding.me/",
     "icon": "https://icons.duckduckgo.com/ip3/place-atlas.stefanocoding.me.ico",
     "slug": "place-atlas-initiative",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 220,
     "timeMonth": 214,
     "timeYear": 273,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-01": 1
+    }
   },
   {
     "name": "2017 Atlas",
     "url": "https://2017.place-atlas.stefanocoding.me/",
     "icon": "https://icons.duckduckgo.com/ip3/2017.place-atlas.stefanocoding.me.ico",
     "slug": "2017-atlas",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 175,
     "timeMonth": 204,
     "timeYear": 218,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-01": 0
+    }
   },
   {
     "name": "2022 Atlas",
