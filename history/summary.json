@@ -24,9 +24,9 @@
     "url": "https://2017.place-atlas.stefanocoding.me/",
     "icon": "https://icons.duckduckgo.com/ip3/2017.place-atlas.stefanocoding.me.ico",
     "slug": "2017-atlas",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.86%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
@@ -36,6 +36,7 @@
     "timeMonth": 214,
     "timeYear": 225,
     "dailyMinutesDown": {
+      "2025-03-07": 0,
       "2025-03-01": 14
     }
   },
