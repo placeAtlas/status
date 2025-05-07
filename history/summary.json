@@ -4,9 +4,9 @@
     "url": "https://place-atlas.stefanocoding.me/",
     "icon": "https://icons.duckduckgo.com/ip3/place-atlas.stefanocoding.me.ico",
     "slug": "place-atlas-initiative",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 267,
     "timeYear": 257,
     "dailyMinutesDown": {
+      "2025-05-07": 0,
       "2025-03-01": 15
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://2017.place-atlas.stefanocoding.me/",
     "icon": "https://icons.duckduckgo.com/ip3/2017.place-atlas.stefanocoding.me.ico",
     "slug": "2017-atlas",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -36,6 +37,7 @@
     "timeMonth": 202,
     "timeYear": 240,
     "dailyMinutesDown": {
+      "2025-05-07": 0,
       "2025-03-23": 6,
       "2025-03-07": 17,
       "2025-03-01": 14
@@ -46,9 +48,9 @@
     "url": "https://2017.place-atlas.stefanocoding.me/",
     "icon": "https://icons.duckduckgo.com/ip3/2017.place-atlas.stefanocoding.me.ico",
     "slug": "2022-atlas",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -57,16 +59,18 @@
     "timeWeek": 10,
     "timeMonth": 14,
     "timeYear": 11,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-07": 0
+    }
   },
   {
     "name": "(2022) Place Catalog",
     "url": "https://place-catalog.stefanocoding.me/",
     "icon": "https://icons.duckduckgo.com/ip3/place-catalog.stefanocoding.me.ico",
     "slug": "2022-place-catalog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -75,16 +79,18 @@
     "timeWeek": 278,
     "timeMonth": 283,
     "timeYear": 301,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-07": 0
+    }
   },
   {
     "name": "2023 Atlas",
     "url": "https://2017.place-atlas.stefanocoding.me/",
     "icon": "https://icons.duckduckgo.com/ip3/2017.place-atlas.stefanocoding.me.ico",
     "slug": "2023-atlas",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -93,7 +99,9 @@
     "timeWeek": 18,
     "timeMonth": 22,
     "timeYear": 17,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-07": 0
+    }
   },
   {
     "name": "Place Wiki",
