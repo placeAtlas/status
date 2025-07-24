@@ -4,9 +4,9 @@
     "url": "https://place-atlas.stefanocoding.me/",
     "icon": "https://icons.duckduckgo.com/ip3/place-atlas.stefanocoding.me.ico",
     "slug": "place-atlas-initiative",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 265,
     "timeYear": 267,
     "dailyMinutesDown": {
+      "2025-07-24": 0,
       "2025-05-07": 14,
       "2025-03-01": 15
     }
@@ -70,9 +71,9 @@
     "url": "https://place-catalog.stefanocoding.me/",
     "icon": "https://icons.duckduckgo.com/ip3/place-catalog.stefanocoding.me.ico",
     "slug": "2022-place-catalog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -82,6 +83,7 @@
     "timeMonth": 227,
     "timeYear": 296,
     "dailyMinutesDown": {
+      "2025-07-24": 0,
       "2025-06-19": 10,
       "2025-05-07": 14
     }
