@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.68%",
+    "uptimeWeek": "99.70%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.97%",
     "time": 269,
@@ -122,19 +122,19 @@
     "url": "https://place-wiki.stefanocoding.me/",
     "icon": "https://icons.duckduckgo.com/ip3/place-wiki.stefanocoding.me.ico",
     "slug": "place-wiki",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "95.47%",
-    "uptimeWeek": "99.35%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.98%",
-    "time": 1206,
-    "timeDay": 3621,
-    "timeWeek": 1938,
-    "timeMonth": 1400,
-    "timeYear": 1206,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "93.72%",
+    "uptimeWeek": "99.10%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.97%",
+    "time": 1205,
+    "timeDay": 2773,
+    "timeWeek": 1842,
+    "timeMonth": 1390,
+    "timeYear": 1205,
     "dailyMinutesDown": {
-      "2025-07-31": 65
+      "2025-07-31": 90
     }
   }
 ]
