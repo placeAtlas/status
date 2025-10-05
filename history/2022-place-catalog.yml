@@ -1,7 +1,7 @@
 url: https://place-catalog.stefanocoding.me/
-status: up
-code: 200
-responseTime: 87
-lastUpdated: 2025-10-04T23:00:37.477Z
+status: down
+code: 500
+responseTime: 3247
+lastUpdated: 2025-10-05T21:10:12.894Z
 startTime: 2025-02-04T16:59:29.449Z
 generator: Upptime <https://github.com/upptime/upptime>
