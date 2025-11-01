@@ -134,9 +134,9 @@
     "url": "https://place-wiki.stefanocoding.me/",
     "icon": "https://icons.duckduckgo.com/ip3/place-wiki.stefanocoding.me.ico",
     "slug": "place-wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
@@ -146,6 +146,7 @@
     "timeMonth": 1160,
     "timeYear": 1174,
     "dailyMinutesDown": {
+      "2025-11-01": 0,
       "2025-10-03": 4,
       "2025-07-31": 90
     }
