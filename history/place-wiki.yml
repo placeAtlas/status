@@ -1,7 +1,7 @@
 url: https://place-wiki.stefanocoding.me/
-status: up
-code: 200
-responseTime: 1721
-lastUpdated: 2025-11-18T12:36:48.969Z
+status: down
+code: 500
+responseTime: 43
+lastUpdated: 2025-11-18T13:17:01.620Z
 startTime: 2025-01-08T15:33:53.879Z
 generator: Upptime <https://github.com/upptime/upptime>
